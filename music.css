@@ -1,0 +1,95 @@
+html, body {
+    height: 100%;
+    opacity: 0.9.05;
+    margin: 0;
+    padding: 0;
+    cursor: url("https://files.catbox.moe/rc9abu.png"), url("https://files.catbox.moe/dfe0el.png"), auto;
+}
+
+body {
+    font-family: monospace, freemono;
+    color: #39FF14;
+    background-image: url("https://wallpapercrafter.com/sizes/1920x1080/2717-space-stars-starry-sky-dark-4k.jpg");
+    background-repeat: repeat-y;
+    background-size: cover;
+    cursor: url("https://files.catbox.moe/rc9abu.png"), url("https://files.catbox.moe/dfe0el.png"), auto;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header, nav, footer {
+    background-image: url("https://wallpapercrafter.com/sizes/1920x1080/2717-space-stars-starry-sky-dark-4k.jpg");
+    background-repeat: repeat-y;
+    color: #39FF14;
+    text-align: center;
+}
+
+nav a {
+    color: #033E3E;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.draggable {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    cursor: move; /* Change cursor to indicate draggable */
+}
+
+table {
+    width: 450px; /* Adjust the width as needed */
+    margin: 0 auto;
+    max-width: 3000px; /* Set a maximum width if desired */
+    border-spacing: 0 10px; /* Add space between rows */
+    font-weight: normal;
+}
+
+th, td {
+    border: 2px solid #FF00FF;
+    padding: 8px;
+    text-align: center;
+    font-weight: normal;
+}
+
+th {
+    padding: 8px;
+}
+
+tr {
+    background-color: transparent; /* Background color for rows */
+    padding: 10px;
+    
+}
+
+tr:nth-child(even) {
+    background-color: transparent; /* Even row background color */
+    padding: 10px;
+}
+
+.table-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.table-wrapper {
+    margin-right: 20px; /* Adjust as needed for space between tables */
+}
+
+caption {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.first-row th {
+    font-weight: normal;
+}
+.center {
+        display: flex;
+        justify-content: center;
