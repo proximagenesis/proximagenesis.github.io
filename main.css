@@ -1,49 +1,151 @@
-.title {
-  text-align: center;
-  margin-top: 50px;
-}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>c:\users\genesis\</title>
+    <style>
+        body {
+            font-family: monospace, freemono;
+            margin: 0;
+            padding: 0;
+            cursor: url("https://files.catbox.moe/2xvrpp.png"),auto;
+        }
+        header, nav, footer {
+            background-color: #000000;
+            color: #39FF14;
+            text-align: center;
+            padding: 10px 0;
+        }
+        nav a {
+            color: #39FF14;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <pre>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠀⠀⠀⠀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡖⠁⠀⠀⠀⠀⠀⠀⠈⢲⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⣼⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣧⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⣸⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣿⣇⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⣿⣿⡇⠀⢀⣀⣤⣤⣤⣤⣀⡀⠀⢸⣿⣿⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢻⣿⣿⣔⢿⡿⠟⠛⠛⠻⢿⡿⣢⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⣀⣤⣶⣾⣿⣿⣿⣷⣤⣀⡀⢀⣀⣤⣾⣿⣿⣿⣷⣶⣤⡀⠀⠀⠀⠀
+⠀⠀⢠⣾⣿⡿⠿⠿⠿⣿⣿⣿⣿⡿⠏⠻⢿⣿⣿⣿⣿⠿⠿⠿⢿⣿⣷⡀⠀⠀
+⠀⢠⡿⠋⠁⠀⠀⢸⣿⡇⠉⠻⣿⠇⠀⠀⠸⣿⡿⠋⢰⣿⡇⠀⠀⠈⠙⢿⡄⠀
+⠀⡿⠁⠀⠀⠀⠀⠘⣿⣷⡀⠀⠰⣿⣶⣶⣿⡎⠀⢀⣾⣿⠇⠀⠀⠀⠀⠈⢿⠀
+⠀⡇⠀⠀⠀⠀⠀⠀⠹⣿⣷⣄⠀⣿⣿⣿⣿⠀⣠⣾⣿⠏⠀⠀⠀⠀⠀⠀⢸⠀
+⠀⠁⠀⠀⠀⠀⠀⠀⠀⠈⠻⢿⢇⣿⣿⣿⣿⡸⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠈⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣼⣿⣿⣿⣿⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠐⢤⣀⣀⢀⣀⣠⣴⣿⣿⠿⠋⠙⠿⣿⣿⣦⣄⣀⠀⠀⣀⡠⠂⠀⠀⠀
+⠀⠀⠀⠀⠀⠈⠉⠛⠛⠛⠛⠉⠀⠀⠀⠀⠀⠈⠉⠛⠛⠛⠛⠋⠁⠀⠀⠀⠀⠀
 
-.title h1 {
-  font-size: 48px;
-  font-weight: bold;
-  color: #333;
-  position: relative;
-  animation: slidein 2s infinite alternate;
-}
+</pre>
 
-@keyframes slidein {
-  0% {
-    transform: translateY(-50px);
-    opacity: 0;
-  }
-  100% {
-    transform: translateY(0);
-    opacity: 1;
-  }
+        <h2> this is my site</h2>
+        <p> i am genesis. </p>
+        <a href="forever.html"><img src="https://64.media.tumblr.com/a36a515107709063b6b6f52ef3a17da7/f90fa8585d8238c1-0c/s640x960/d3b04615f23d5643aed1db6e61d8db18c0e1426a.gifv" width="150" height="20"></a>
+        
+        <p> this site exists for the documentation of...something. </p><p><del>proceed with caution, this bitch is weirddddd</del></p>
+        <img src="https://64.media.tumblr.com/e53b33606dc9dd8bae964ac8fa8f3165/4961b4d817eb8a8d-2f/s640x960/f8a670912642580b812d38346c3de7ee9af9eddf.gifv">
+        
+        
+    <nav>
+            <a href="index.html">home</a>
+            <a href="blog.html">blog</a>
+            <a href="updates.html">updates</a>
+            <a href="hello.html">hello</a>
+        </nav>
+        
+        
+        <h1> listen to my favorite songs </h1>
+        <a href="music.html"><img src="https://64.media.tumblr.com/7b0c08518b3753fafe57253c643f2062/1c7f010c1a42b409-d4/s400x600/b11254358c4d41f1b00c72bca904fea57102c4b1.gifv"></a>
+        
+        <p>keep an eye out for secret pages...</p> 
+        <p><a href="https://3108.info/" target="_blank">
+            <img src="https://web.archive.org/web/20091019151550if_/http://www.geocities.com/govconspiracytheory/addesign2.gif" alt="Example Image">
+            </a>     
+        </p>
+        <img src="https://64.media.tumblr.com/ba92adf516ad4ca0bde80ed58eef8ae7/f2177b093a4a141a-cf/s100x200/e55caaef14bd27f120029ac1ce1f3c0c571eaf32.gifv">
+        
+<img src="https://64.media.tumblr.com/714d435efa19c50bf196b6fb94c8759c/73da4e8e2441eb23-71/s1280x1920/63f58037ccf897a7b4cd880a07128ff60c87ce32.gifv">
+
+<img src="https://64.media.tumblr.com/ba92adf516ad4ca0bde80ed58eef8ae7/f2177b093a4a141a-cf/s100x200/e55caaef14bd27f120029ac1ce1f3c0c571eaf32.gifv">
+
+        <header>
+            
+        <p>By the late twentieth century, our time, a mythic time, we
+are all chimeras, theorized and fabricated hybrids of machine
+and organism—in short, cyborgs. The cyborg is our ontology; it
+gives us our politics. The cyborg is a condensed image of both
+imagination and material reality, the two joined centers structuring any possibility of historical transformation</p>
+        <p>The cyborg is resolutely committed to partiality, irony, intimacy, and perversity. It is oppositional, utopian, and completely without innocence.</p>
+        <p>Nature and culture are reworked; the one can
+no longer be the resource for appropriation or incorporation by
+the other. </p>
+        <p style="color:#7c0d84;">Cyborgs are not reverent; they do not re-member the cosmos. They are wary of holism, but needy for connection. </p>
+        
+<p>Pre-cybernetic machines could be
+haunted; there was always the specter of the ghost in the machine. This dualism structured the dialogue between materialism and idealism that was settled by a dialectical progeny, called
+spirit or history, according to taste. But basically machines were
+not self-moving, self-designing, autonomous. They could not achieve man’s dream, only mock it. They were not man, an author to himself, but only a caricature of that masculinist reproductive dream. To think they were otherwise was paranoid.</p>
+        <p>Late twentieth-century machines have
+made thoroughly ambiguous the diference between natural
+and artifcial, mind and body, self-developing and externally
+designed, and many other distinctions that used to apply to organisms and machines. Our machines are disturbingly lively, and we ourselves frighteningly inert.</p>
+<h2>The cyborg would not recognize the
+Garden of Eden; it is not made of mud and cannot dream of returning to dust.</h2>
+
+        <p style="color:#7c0d84;">Perhaps that is why I want to see if cyborgs
+can subvert the apocalypse of returning to nuclear dust in the
+manic compulsion to name the Enemy</p>
  
-  .popup {
-    display: none;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(0, 0, 0, 0.5);
-}
-
-.popup-content {
-    position: relative;
-    margin: 10% auto;
-    padding: 20px;
-    background-color: #fff;
-    width: 80%;
-    max-width: 600px;
-}
-
-.close {
-    position: absolute;
-    top: 10px;
-    right: 10px;
-    cursor: pointer;
-}
-}
+            
+ <br>
+        <div align=center>
+            <img src="https://64.media.tumblr.com/9bd0f85684d1e7bf9d2302e967223284/e506542ab4290fb8-e8/s250x400/86cebb130e4a9d2db47ae5ef4b6248da14705511.gifv">
+&nbsp;
+<img src="https://64.media.tumblr.com/53661ab1b699ac4efcf3515d753d7369/6f082a76b2e3df79-84/s250x400/f20e8bc272f1def943506524567d978bd0621050.gifv">
+&nbsp;
+<img src="https://64.media.tumblr.com/7073d8adf2df591d95643729006fa659/6e0dd3d762cb8f3a-f2/s250x400/52589994c2927d5aa4060099b615090f33565069.gifv">
+&nbsp;
+<img src="https://64.media.tumblr.com/2a6fe5c862afd47641dfae92be8cbca1/5ecaa4b8aa8cbc9a-7d/s250x400/aa7cd57be95631a6cef4da8042ed99d54caa8469.gifv">
+&nbsp;
+<img src="https://64.media.tumblr.com/6e68045d5a2af89729ed6f9b70c63625/1fb39223b20e4f22-16/s250x400/871474cae38be597613ae243c1a0825fb231e60e.gifv">
+&nbsp;
+<img src="https://64.media.tumblr.com/d53eb89cad326c5a1a3ad62babf815de/415fe9204bd83db3-b4/s250x400/ba4d59219c7b8724f88c166c008514dc583f1772.gifv">
+&nbsp;
+<img src="https://64.media.tumblr.com/a4248078b62f5b8711342dd203639d0d/415fe9204bd83db3-0a/s250x400/8696913d17caeeb8bd888d4374698f0c62694fab.gifv">
+&nbsp;
+<img src="https://64.media.tumblr.com/e35c5d75f3057d8dbc6f48b1ec715315/1fb39223b20e4f22-e0/s250x400/2d5012de51468c0597d10c82225138f3c9c663ba.gifv">
+&nbsp;
+<img src="https://64.media.tumblr.com/be95628564de6699913777ea7e9574e8/2bbb52212c4c0cfa-14/s250x400/e40a6cba7a18b782c6252fd4daa49fc04a05621a.gifv">
+&nbsp;
+<img src="https://64.media.tumblr.com/dca4b1d7884a3c31afe7618fa490413f/c7e403fdc450f467-20/s250x400/e39143c12568f5d9cd11ab6ca8668686415a446f.gifv">
+&nbsp;
+<img src="https://64.media.tumblr.com/1029d10ca0481a64bb9d4496f1a4d309/aa9e02799d1fcbfc-33/s250x400/99106b40231a34ec26316d2392752e189bdd941c.gifv">
+&nbsp;
+<img src="https://64.media.tumblr.com/0c39b8b1f8a365f1113bf0828e18d113/1fb39223b20e4f22-62/s250x400/5e39709d7e2168d60de5ed71eda24ee82120db51.gifv">
+&nbsp;
+<img src="https://64.media.tumblr.com/82c0278cd8068043478b3d62c8e95579/80d3a927ef6ae3b9-60/s250x400/1e416503c0ac187dd220d059ac87d6008e64b9de.gifv">
+&nbsp;
+<img src="https://64.media.tumblr.com/91b748f3c8ab0dd49fbfd66e857dc6b8/5ecaa4b8aa8cbc9a-22/s250x400/267926501bdb641af88d683daff6f885525f138c.gifv">
+&nbsp;
+<img src="https://64.media.tumblr.com/05ad011f21aacbb27e04d64f94ab5ebc/24eb9861727f9e3b-6f/s250x400/425a9a94001549c9477a1f111b9db89bb74ee2ce.gifv">
+&nbsp;
+<img src="https://64.media.tumblr.com/7ec3e9e86ce26b45224718aaf5c23eda/e28d1d3a7b1d9f23-0c/s250x400/62a6976a33a54962cb9666d356c10c8ff9d13089.gifv">
+&nbsp;
+        </div>
+    
+    
+    
+    <footer>
+        <p> hello world!</p>
+        <a href="mountain.html"><img src="https://64.media.tumblr.com/462ce149ab076b2a71e252538249c6a8/tumblr_pdhbexZ7iC1wjgmklo5_400.gifv">
+    </footer>
+        
+</body>
+</html>
