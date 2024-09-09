@@ -1,0 +1,76 @@
+body {
+    font-family: monospace, freemono;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+    color: #990000;  
+    cursor: url("https://files.catbox.moe/1wrzt6.png"),auto;
+}
+nav a {
+    color: #222222;
+    text-decoration: none;
+    margin: 0 10px;
+}
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #222222;
+    color: #990000;
+    text-align: left;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+header {
+    text-align: center;
+}
+h1 {
+    font-size: 2.5em;
+    margin-top: 0;
+}
+h2 {
+    text-align: left;
+}
+
+p {
+    font-size: 1.1em;
+    text-align: left;
+}
+.post-content {
+    padding: 30px;
+    background-color: #222222;
+    border-radius: 5px;
+    text-align: left;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+footer {
+    text-align: center;
+    margin-top: 50px;
+}
+.sidebar {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 200px;
+    height: 100%;
+    padding: 20px;
+   
+}
+.sidebar h3 {
+    margin-top: 0;
+}
+.sidebar ul {
+    list-style-type: none;
+    padding: 0;
+}
+.sidebar ul li {
+    margin-bottom: 10px;
+}
+.sidebar ul li a {
+    color: #990000;
+    text-decoration: none;
+}
+.sidebar ul li a:hover {
+    text-decoration: underline;
+}
